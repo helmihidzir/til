@@ -1,4 +1,4 @@
-# Passing local variables
+# Passing local variable
 
 Passing instance variable to another partial or view.
 
@@ -14,12 +14,12 @@ def create
     if @post.save
       redirect_to root_path, notice: "Successfully created a new Post!"
     else
-      render 'posts/fail', locals: { error: @post.errors }
+      render 'posts/fail', locals: { error: @post.errors.full_messages }
     end
 end
 ```
 
 In `fail.html.erb` you can call the variable `error`.
-```ruby
+```
 <%= error %>
 ```
