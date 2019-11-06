@@ -19,3 +19,6 @@ Documenting everything new that I learned.
 - [Find and kill process](terminal/find_and_kill_process.md)
 - [IPv6](terminal/ipv6.md)
 - [MySQL](terminal/mysql.md)
+
+# Ubuntu
+- [Install Ruby on Rails on Ubuntu](ubuntu/install_ror_on_ubuntu.md)
