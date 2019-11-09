@@ -6,7 +6,7 @@ Documenting everything new that I learned.
 
 ### Rails
 - [Format in routes](rails/format_in_routes.md)
-- [Installing mysql2 gem](rails/installing_mysql2_gem.md) 
+- [Installing mysql2 gem](rails/installing_mysql2_gem.md)
 - [Passing local variable](rails/passing_local_variable.md)
 - [Routes](rails/routes.md)
 - [Run sidekiq command](rails/run_sidekiq_command.md)
@@ -21,4 +21,5 @@ Documenting everything new that I learned.
 - [MySQL](terminal/mysql.md)
 
 # Ubuntu
+- [Change workspace](ubuntu/change_workspace.md)
 - [Install Ruby on Rails on Ubuntu](ubuntu/install_ror_on_ubuntu.md)
