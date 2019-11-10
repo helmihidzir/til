@@ -23,3 +23,6 @@ Documenting everything new that I learned.
 # Ubuntu
 - [Change workspace](ubuntu/change_workspace.md)
 - [Install Ruby on Rails on Ubuntu](ubuntu/install_ror_on_ubuntu.md)
+
+# VS Code
+- [Preview markdown](vscode/preview_markdown.md)
