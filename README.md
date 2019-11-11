@@ -20,9 +20,9 @@ Documenting everything new that I learned.
 - [IPv6](terminal/ipv6.md)
 - [MySQL](terminal/mysql.md)
 
-# Ubuntu
+### Ubuntu
 - [Change workspace](ubuntu/change_workspace.md)
 - [Install Ruby on Rails on Ubuntu](ubuntu/install_ror_on_ubuntu.md)
 
-# VS Code
+### VS Code
 - [Preview markdown](vscode/preview_markdown.md)
