@@ -10,6 +10,7 @@ Documenting everything new that I learned.
 - [Passing local variable](rails/passing_local_variable.md)
 - [Routes](rails/routes.md)
 - [Run sidekiq command](rails/run_sidekiq_command.md)
+- [Controllers](rails/controllers.md)
 
 ### Ruby
 - [Object ID](ruby/object_id.md)
