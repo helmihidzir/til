@@ -6,6 +6,7 @@ Documenting everything new that I learned.
 
 ### Rails
 - [Controllers](rails/controllers.md)
+- [Difference between new and create methods](rails/difference_between_new_and_create_method.md)
 - [Format in routes](rails/format_in_routes.md)
 - [Installing mysql2 gem](rails/installing_mysql2_gem.md)
 - [Parameters](rails/params.md)
