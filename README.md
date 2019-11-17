@@ -14,6 +14,8 @@ Documenting everything new that I learned.
 - [Routes](rails/routes.md)
 - [Run sidekiq command](rails/run_sidekiq_command.md)
 
+### Regular expression
+- [Regular Expression](regular_expression/regular_expression.md)
 
 ### Ruby
 - [Object ID](ruby/object_id.md)
