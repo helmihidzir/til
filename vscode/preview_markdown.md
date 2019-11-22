@@ -1,3 +1,3 @@
 # Preview markdown
 
-Shortcut for to preview markdown `ctrl` +  `shift` + `v`
+Shortcut for to preview markdown `command` +  `shift` + `v`
