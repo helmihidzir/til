@@ -9,6 +9,7 @@ Documenting everything new that I learned.
 - [Difference between new and create methods](rails/difference_between_new_and_create_method.md)
 - [Fixtures](rails/fixtures.md)
 - [Format in routes](rails/format_in_routes.md)
+- [Forms](rails/forms.md)
 - [Installing mysql2 gem](rails/installing_mysql2_gem.md)
 - [Parameters](rails/params.md)
 - [Passing local variable](rails/passing_local_variable.md)
