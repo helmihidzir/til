@@ -5,6 +5,7 @@ Documenting everything new that I learned.
 - [Git](git/git.md)
 
 ### Rails
+- [Boolean](rails/boolean.md)
 - [Controllers](rails/controllers.md)
 - [Difference between new and create methods](rails/difference_between_new_and_create_method.md)
 - [Fixtures](rails/fixtures.md)
