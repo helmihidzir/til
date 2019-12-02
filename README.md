@@ -12,6 +12,7 @@ Documenting everything new that I learned.
 - [Format in routes](rails/format_in_routes.md)
 - [Forms](rails/forms.md)
 - [Installing mysql2 gem](rails/installing_mysql2_gem.md)
+- [Multiple databases](rails/multiple_databases.md)
 - [Parameters](rails/params.md)
 - [Passing local variable](rails/passing_local_variable.md)
 - [Routes](rails/routes.md)
