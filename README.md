@@ -7,6 +7,7 @@ Documenting everything new that I learned.
 ### Rails
 - [Boolean](rails/boolean.md)
 - [Controllers](rails/controllers.md)
+- [Database](rails/database.md)
 - [Difference between new and create methods](rails/difference_between_new_and_create_method.md)
 - [Fixtures](rails/fixtures.md)
 - [Format in routes](rails/format_in_routes.md)
