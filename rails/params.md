@@ -13,3 +13,11 @@ and it will return
 ```
 <ActionController::Parameters {"title"=>"First Article!", "text"=>"This is my first article."} permitted: false>
 ```
+
+---
+
+The way to set a query parameter in Rails is to include a hash in the named route, in this example email hash is included:
+
+`edit_account_activation_url(@user.activation_token, email: @user.email)`
+
+This also will give `params[:email]` in the controller to be access.
