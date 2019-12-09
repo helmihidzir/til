@@ -5,6 +5,7 @@ Documenting everything new that I learned.
 - [Git](git/git.md)
 
 ### Rails
+- [Apipie](rails/apipie.md)
 - [Boolean](rails/boolean.md)
 - [Controllers](rails/controllers.md)
 - [Database](rails/database.md)
