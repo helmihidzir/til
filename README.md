@@ -4,6 +4,9 @@ Documenting everything new that I learned.
 ### Git
 - [Git](git/git.md)
 
+### MySQL
+- [MySQL](mysql.mysql.md)
+
 ### Rails
 - [Apipie](rails/apipie.md)
 - [Boolean](rails/boolean.md)
