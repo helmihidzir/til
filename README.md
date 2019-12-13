@@ -4,9 +4,6 @@ Documenting everything new that I learned.
 ### Git
 - [Git](git/git.md)
 
-### MySQL
-- [MySQL](mysql.mysql.md)
-
 ### Rails
 - [Apipie](rails/apipie.md)
 - [Boolean](rails/boolean.md)
@@ -31,10 +28,10 @@ Documenting everything new that I learned.
 - [Object ID](ruby/object_id.md)
 
 ### Terminal
-- [Add SSH identity](terminal/add_ssh_identity.md)
 - [Find and kill process](terminal/find_and_kill_process.md)
 - [IPv6](terminal/ipv6.md)
 - [MySQL](terminal/mysql.md)
+- [SSH Key](terminal/ssh_key.md)
 
 ### Ubuntu
 - [Change workspace](ubuntu/change_workspace.md)
