@@ -35,6 +35,7 @@ Documenting everything new that I learned.
 - [SSH Key](terminal/ssh_key.md)
 
 ### Ubuntu
+- [Bundle permission error](ubuntu/bundle_permission_error.md)
 - [Change workspace](ubuntu/change_workspace.md)
 - [Install Ruby on Rails on Ubuntu](ubuntu/install_ror_on_ubuntu.md)
 
