@@ -17,6 +17,7 @@ Documenting everything new that I learned.
 - [Multiple databases](rails/multiple_databases.md)
 - [Parameters](rails/params.md)
 - [Passing local variable](rails/passing_local_variable.md)
+- [pg gem](rails/pg_gem.md)
 - [Polymorphic Association](rails/polymorphic_association.md)
 - [Routes](rails/routes.md)
 - [Run sidekiq command](rails/run_sidekiq_command.md)
