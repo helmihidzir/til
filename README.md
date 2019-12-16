@@ -33,6 +33,7 @@ Documenting everything new that I learned.
 - [IPv6](terminal/ipv6.md)
 - [MySQL](terminal/mysql.md)
 - [SSH Key](terminal/ssh_key.md)
+- [Terminal](terminal/terminal.md)
 
 ### Ubuntu
 - [Bundle permission error](ubuntu/bundle_permission_error.md)
