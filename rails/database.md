@@ -7,3 +7,4 @@ Rails 6 also introduce `upsert_all` which is can update the existing record or c
 
 ---
 To combine two object relation use merge method, eg `first_name_relation.merge(last_name_relation)` or or method, eg `first_name_relation.or(last_name_relation)`. 
+[Source](https://stackoverflow.com/questions/9540801/combine-two-activerecordrelation-objects)
