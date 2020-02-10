@@ -12,6 +12,7 @@ Documenting everything new that I learned.
 - [Boolean](rails/boolean.md)
 - [Controllers](rails/controllers.md)
 - [Database](rails/database.md)
+- [Database console](rails/dbconsole.md)
 - [Difference between new and create methods](rails/difference_between_new_and_create_method.md)
 - [Fixtures](rails/fixtures.md)
 - [Form with helper](rails/form_with.md)
