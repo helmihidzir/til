@@ -33,6 +33,7 @@ Documenting everything new that I learned.
 
 ### Ruby
 
+- [Arguments](ruby/arguments.md)
 - [Object ID](ruby/object_id.md)
 - [Source diving code](ruby/source_diving_code.md)
 
