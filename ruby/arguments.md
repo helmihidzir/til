@@ -25,3 +25,15 @@ What is arguments?
    ```
 
    a and b is positional argument while bar and bell is keyword argument. Positional argument means that the value will affected by the position of argument while keyword argument do not affected about the position.
+
+3. You can actually set parameters without default value in the method by setting like
+   `def foo(bar:)`. But when method call you have to provide value for `bar:` because it is required keyword arguments. [source](https://thoughtbot.com/blog/ruby-2-keyword-arguments)
+
+   ```ruby
+   def foo(bar:)
+       puts bar
+   end
+
+   foo # => ArgumentError: missing keyword: bar
+   foo(bar: 'baz') # => 'baz'
+   ```
