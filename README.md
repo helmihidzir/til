@@ -37,6 +37,7 @@ Documenting everything new that I learned.
 - [Object ID](ruby/object_id.md)
 - [Source diving code](ruby/source_diving_code.md)
 - [Super](ruby/super.md)
+- [Symbol](ruby/symbol.md)
 
 ### Terminal
 
