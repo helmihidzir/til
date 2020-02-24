@@ -53,3 +53,8 @@ nothing to commit, working directory clean
 ```
 
 run, `git rebase --abort`. [Source](https://stackoverflow.com/questions/31252363/how-to-get-rid-of-message-strange-message-on-git-status)
+
+Remove certain file from git 
+```bash
+git rm --cached <filename>
+```
