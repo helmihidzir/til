@@ -26,6 +26,7 @@ Documenting everything new that I learned.
 - [Polymorphic Association](rails/polymorphic_association.md)
 - [Routes](rails/routes.md)
 - [Run sidekiq command](rails/run_sidekiq_command.md)
+- [Tips and tricks for new developer](rails/tips_and_tricks_for_new_developer.md)
 
 ### Regular expression
 
