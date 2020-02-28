@@ -11,6 +11,7 @@ Documenting everything new that I learned.
 - [Apipie](rails/apipie.md)
 - [Boolean](rails/boolean.md)
 - [Controllers](rails/controllers.md)
+- [Credentials](rails/credentials.md)
 - [Database](rails/database.md)
 - [Database console](rails/dbconsole.md)
 - [Difference between new and create methods](rails/difference_between_new_and_create_method.md)
