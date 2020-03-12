@@ -1,4 +1,4 @@
-# Today I Learned
+# Today I Learn
 
 Documenting everything new that I learned.
 
