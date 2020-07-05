@@ -41,6 +41,10 @@ Documenting everything new that I learned.
 - [Super](ruby/super.md)
 - [Symbol](ruby/symbol.md)
 
+### Rubymine
+
+- [Hotkeys](rubymine/hotkeys.md)
+
 ### Terminal
 
 - [Find and kill process](terminal/find_and_kill_process.md)
