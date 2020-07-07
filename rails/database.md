@@ -22,3 +22,10 @@ Person.pluck(:id, :name).map { |p| { id: p[0], name: p[1] } }
 ```
 Transaction.where.not(purpose: %i[a f])
 ```
+
+7. Rolling back half success and failed migration
+ - Comment out lines that successfully migrate
+ - Comment out/Remove lines that failed
+ - Run migration again
+
+ Check whether it is correct or not by uncomment successful and fail migration, then rollback database and lastly run migration again.
