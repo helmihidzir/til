@@ -37,6 +37,7 @@ Documenting everything new that I learned.
 ### Ruby
 
 - [Arguments](ruby/arguments.md)
+- [Break Next Return](ruby/break_next_return.md)
 - [Object ID](ruby/object_id.md)
 - [Source diving code](ruby/source_diving_code.md)
 - [Super](ruby/super.md)
@@ -51,6 +52,7 @@ Documenting everything new that I learned.
 - [Find and kill process](terminal/find_and_kill_process.md)
 - [IPv6](terminal/ipv6.md)
 - [MySQL](terminal/mysql.md)
+- [Server](terminal/server.md)
 - [Shorten Mac Terminal Path](terminal/shorten_mac_terminal_path.md)
 - [SSH Key](terminal/ssh_key.md)
 - [Terminal](terminal/terminal.md)
