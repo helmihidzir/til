@@ -19,6 +19,7 @@ Documenting everything new that I learned.
 - [Form with helper](rails/form_with.md)
 - [Format in routes](rails/format_in_routes.md)
 - [Forms](rails/forms.md)
+- [How to add erb in javascript with Webpacker](rails/how_to_add_erb_in_javascript_with_webpacker.md)
 - [Installing mysql2 gem](rails/installing_mysql2_gem.md)
 - [Multiple databases](rails/multiple_databases.md)
 - [Parameters](rails/params.md)
