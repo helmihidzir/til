@@ -20,6 +20,7 @@ Documenting everything new that I learned.
 - [Format in routes](rails/format_in_routes.md)
 - [Forms](rails/forms.md)
 - [How to add erb in javascript with Webpacker](rails/how_to_add_erb_in_javascript_with_webpacker.md)
+- [How to decode url encoded string](rails/how_to_decode_url_encoded_string.md)
 - [Installing mysql2 gem](rails/installing_mysql2_gem.md)
 - [Multiple databases](rails/multiple_databases.md)
 - [Parameters](rails/params.md)
